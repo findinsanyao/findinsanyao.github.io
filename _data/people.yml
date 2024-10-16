@@ -6,7 +6,7 @@ profx:
     github: xiaohang007
     role: faculty
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
+    bio: 
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
@@ -30,14 +30,16 @@ bizhu:
     display_name: "赵思青"
     role: grad
     image: /img/people/bizhu.jpg
+    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 kedeng:
     display_name: "顾听雷"
     role: grad
     image: /img/people/kedeng.jpg
+    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 storm:
-    display_name: "虚位以待  We need you!"
+    display_name: ""
     role: grad
     image: /img/people/need.png
 
@@ -52,6 +54,7 @@ alum-a:
 chenxi:
     display_name: " "
     role: collab
+    image: /img/people/kedeng.jpg
 
 
 xiaoyang:
