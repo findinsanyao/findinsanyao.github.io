@@ -50,36 +50,36 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: " "
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: ""
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: ""
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: ""
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: ""
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: ""
     role: collab
 
 yayun:
-    display_name: "张亚运 Yayun Zhang"
+    display_name: ""
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: ""
     role: collab
     
 
