@@ -2,7 +2,7 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
+    display_name: "段非慈"
     github: xiaohang007
     role: faculty
     image: /img/people/hang.jpg
@@ -27,12 +27,12 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "赵思清"
     role: grad
     image: /img/people/bizhu.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "顾听雷"
     role: grad
     image: /img/people/kedeng.jpg
 
