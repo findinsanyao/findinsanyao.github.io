@@ -9,7 +9,7 @@ people:
   -
  
 layout: project
-image: /img/projects/2d.png
+image: img/projects/canglong.jpg
 last-updated: 2020-01-22
 ---
 
