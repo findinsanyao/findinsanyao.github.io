@@ -2,8 +2,8 @@
 
 
 profx:
-    display_name: "段非慈"
-    github: xiaohang007
+    display_name: "傅江月"
+    github: findinsanyao
     role: faculty
     image: /img/people/hang.jpg
     bio: 
@@ -27,19 +27,19 @@ wolverine:
 
     
 bizhu:
-    display_name: "赵思青"
+    display_name: "傅泽星"
     role: grad
     image: /img/people/bizhu.jpg
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 kedeng:
-    display_name: "顾听雷"
+    display_name: "其实我没给你起名"
     role: grad
     image: /img/people/kedeng.jpg
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 storm:
-    display_name: ""
+    display_name: "燕琅琅"
     role: grad
     image: /img/people/need.png
 
