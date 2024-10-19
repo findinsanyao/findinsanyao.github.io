@@ -1,5 +1,5 @@
 ---
-title:第二篇 
+title: 第二篇 
 
 notitle: false
 
@@ -7,10 +7,7 @@ description: |
 
 people:
   -
-  -
-  -
-  - 
-
+ 
 layout: project
 image: /img/projects/2d.png
 last-updated: 2020-01-22
