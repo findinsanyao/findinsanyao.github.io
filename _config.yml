@@ -1,4 +1,4 @@
-name: 谪仙惊涛
+name: 吟风小传
 url: https://findinsanyao.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -12,11 +12,11 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty 
-    name: 碎梦
+    name: 既然有这一栏那么人物介绍
   - key: grad
-    name: 龙吟
+    name: 
   - key: ugrad
-    name: 天海阁
+    name: 请看其他的安利
   - key: collab
     name: 吟风崖
 
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 霜刃谭
+  - title: 主页
     link: /
-  - title: 人物介绍
-    link: /research.html
   - title: 章节
+    link: /research.html
+  - title: 免责声明
     link: /publications.html
