@@ -12,7 +12,6 @@ people:
 layout: project
 image: /img/projects/oled.png
 last-updated: 2020-01-26
-link:https://shimo.im/file-invite/RmACooYXiH9TNAXz8utHRMmNMAO06/ 
 ---
 
 ## 简介 Introduction
