@@ -7,7 +7,7 @@ profx:
     role: faculty
     image: img/people/jiangyue.jpg
     bio: 
-    webpage: about_jiangyue
+    webpage: about_jiangyue.html
 
 scott:
     display_name: "Scott Summers"
