@@ -10,7 +10,7 @@ people:
   -
 
 layout: project
-image: /img/projects/oled.png
+image: img/projects/bieshui.jpg
 last-updated: 2020-01-26
 ---
 
