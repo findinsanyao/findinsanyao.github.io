@@ -1,20 +1,21 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
+title: 第一篇
 
 notitle: false
 
 description: |
 
 people:
-  - profx
-  - chenxi
+  - 
+  -
 
 layout: project
 image: /img/projects/oled.png
 last-updated: 2020-01-26
+link:https://shimo.im/file-invite/RmACooYXiH9TNAXz8utHRMmNMAO06/ 
 ---
 
 ## 简介 Introduction
 
-与国内一线OLED供应商合作，借助高通量量子化学计算及数据驱动方法，我们开展了新型OLED材料的预测研究。现在该项目正在研发中。
+人可以常约，觉不能乱睡，迟到可是大罪。
 
