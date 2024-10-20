@@ -57,32 +57,39 @@ alum-a:
 
 
 chenxi:
-    display_name: "吟风崖昨日电闪雷鸣，不知是哪位同门在此悟道。 "
+    display_name: "吟风崖昨日电闪雷鸣，不知是哪位同门在此悟道。
+    "
     role: collab
 
 
 xiaoyang:
-    display_name: "据龙吟弟子报，近日弟子宿舍在夜晚总会有奇怪的声音，但开门却又不见人影，难道是幽灵？"
+    display_name: "据龙吟弟子报，近日弟子宿舍在夜晚总会有奇怪的声音，但开门却又不见人影，难道是幽灵？
+    "
     role: collab
 
 xiangbiao:
-    display_name: "苍龙眼又有异象出没？"
+    display_name: "苍龙眼又有异象出没？
+    "
     role: collab
     
 liangliang:
-    display_name: "听说昨日一位龙吟弟子被师姐从吟风崖追着打到天海阁附近，好惨啊。"
+    display_name: "听说昨日一位龙吟弟子被师姐从吟风崖追着打到天海阁附近，好惨啊。
+    "
     role: collab
 
 chenyan:
-    display_name: "担心剑修补后不比从前？来镇海湾刘家铁铺，保证你的剑如焕新生。"
+    display_name: "担心剑修补后不比从前？来镇海湾刘家铁铺，保证你的剑如焕新生。
+    "
     role: collab
     
 juzheng:
-    display_name: "流光滩上出现神秘人影？"
+    display_name: "流光滩上出现神秘人影？
+    "
     role: collab
 
 yayun:
-    display_name: "聂师姐：请各位同门适量饮酒，勿要依赖万象皆春。"
+    display_name: "聂师姐：请各位同门适量饮酒，勿要依赖万象皆春。
+    "
     role: collab
 
 dianxing:
