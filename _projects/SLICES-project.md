@@ -11,7 +11,7 @@ people:
 layout: project
 image: img/projects/qiandai.jpg
 last-updated: 2023-06-08
-link: https://www.nature.com/articles/s41467-023-42870-7
+link: https://shimo.im/file-invite/4KPx5rhJwYaMynuUH9cUk8dLnAE16/
 ---
 
 ## 简介 Introduction
