@@ -6,14 +6,15 @@ profx:
     github: findinsanyao
     role: faculty
     image: img/people/jiangyue.jpg
-    bio: 
+    bio: 你好我最亲爱的女儿
     webpage: /about_jiangyue.html
 
 scott:
-    display_name: "Scott Summers"
-    role: staff
+    display_name: "陈苍"
+    role: faculty
     image: /img/people/scott.png
-    bio: aka Cyclops
+    bio: 起的好难听对不起师兄
+    webpage: /about_jiangyue.html
 
 wolverine:
     display_name: "Wolverine"
@@ -30,18 +31,22 @@ bizhu:
     display_name: "傅泽星"
     role: grad
     image: img/people/zexing.jpg
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    bio: 你顺带的好儿子
+    webpage: /about_jiangyue.html
 
 kedeng:
-    display_name: "其实我没给你起名"
+    display_name: "龙吟"
     role: grad
     image: img/people/nijiaosha.jpg
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    bio: 不好意思没想过你的名字
+    webpage: /about_jiangyue.html
 
 storm:
     display_name: "燕琅琅"
     role: grad
     image: img/people/langlang.jpg
+    bio: 不好意思擅自介绍你一下
+    webpage: /about_jiangyue.html
 
 
 
@@ -52,33 +57,32 @@ alum-a:
 
 
 chenxi:
-    display_name: " "
+    display_name: "吟风崖昨日电闪雷鸣，不知是哪位同门在此悟道。 "
     role: collab
-    image: /img/people/kedeng.jpg
 
 
 xiaoyang:
-    display_name: ""
+    display_name: "据龙吟弟子报，近日弟子宿舍在夜晚总会有奇怪的声音，但开门却又不见人影，难道是幽灵？"
     role: collab
 
 xiangbiao:
-    display_name: ""
+    display_name: "苍龙眼又有异象出没？"
     role: collab
     
 liangliang:
-    display_name: ""
+    display_name: "听说昨日一位龙吟弟子被师姐从吟风崖追着打到天海阁附近，好惨啊。"
     role: collab
 
 chenyan:
-    display_name: ""
+    display_name: "担心剑修补后不比从前？来镇海湾刘家铁铺，保证你的剑如焕新生。"
     role: collab
     
 juzheng:
-    display_name: ""
+    display_name: "流光滩上出现神秘人影？"
     role: collab
 
 yayun:
-    display_name: ""
+    display_name: "聂师姐：请各位同门适量饮酒，勿要依赖万象皆春。"
     role: collab
 
 dianxing:
